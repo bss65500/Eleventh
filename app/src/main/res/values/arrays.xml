@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="foods">
+        <item name="pizza">Pizza</item>
+        <item name="chocolate" >Chocolate</item>
+        <item name="pasta" >Pasta</item>
+        <item name="sweets">Sweets</item>
+    </string-array>
+
+    <string-array name="descriptionArray">
+        <item name="floor,dough">Floor,Dough</item>
+        <item name="cacao,candy">Cacao,Candy</item>
+        <item name="sauce">Sauce</item>
+        <item name="sugar">Sugar</item>
+    </string-array>
+
+</resources>
